@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+.newenv
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output (large files, regenerated on each run)
+output/
+input/*.mp4
+input/*.mp3
+input/*.wav
+
+# OS junk
+.DS_Store
+Thumbs.db
